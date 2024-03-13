@@ -1,13 +1,3 @@
-
-"""
-This program collects user-input data for radiation level measurements
-at various locations. From these figures, average and standard deviation
-figures are then calculated and output.
-
-Location names and historical datapoints are fixed.
-New measurements are input by user.
-"""
-
 import statistics
 
 # FUNCTIONS
